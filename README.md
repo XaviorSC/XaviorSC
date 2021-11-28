@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XaviorSC
 - 👀 I’m interested in ...
-I am the ldeader of Xavior School of Coding. I am taking my followers on a spiritual journey into Software Engineering. You can find more at XaviorSC.com
+I am the leader of Xavior School of Coding. I am taking my followers on a spiritual journey into Software Engineering. You can find more at XaviorSC.com
 - 📫 How to reach me ...
 xavior@xaviorsc.com
 <!---
